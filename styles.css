@@ -1,0 +1,19 @@
+body{
+    font-family: Tahoma;
+    background-color: rgb(9, 32, 231);
+    color: #444;
+    letter-spacing: 1px;
+}
+
+h1{
+    background-image: url(oblaka.png);
+    text-align: center;
+    font-size: 300%;
+    border-radius: 30%;
+    width: -200px;
+    height: 120px;
+}
+.a {
+    padding-top: 100px;
+    padding-right:20px;
+}
